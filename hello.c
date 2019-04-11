@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("hello branch\n");
+	printf("branch\n");
 	return 0;
 }
